@@ -1,0 +1,25 @@
+{
+  "name": "qrcode-generator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "p-limit": "^1.2.0",
+    "qrcode": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinchang/qrcode-generator.git"
+  },
+  "keywords": [],
+  "author": "sinchang <sinchangwen@gmail.com> (http://sinchang.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinchang/qrcode-generator/issues"
+  },
+  "homepage": "https://github.com/sinchang/qrcode-generator#readme"
+}
